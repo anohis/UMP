@@ -1,0 +1,11 @@
+{
+  "name": "asa.BootstrapFramewirk",
+  "version": "1.0.0",
+  "displayName": "BootstrapFramewirk",
+  "description": "BootstrapFramewirk test",
+  "unity": "6000.0.31f1",
+  "author": {
+    "name": "asa"
+  },
+  "dependencies": {}
+}
